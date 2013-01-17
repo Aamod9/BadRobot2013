@@ -1,4 +1,3 @@
-
 package com.badrobot.commands;
 
 /**
@@ -33,4 +32,6 @@ public class ExampleCommand extends CommandBase {
     // subsystems is scheduled to run
     protected void interrupted() {
     }
+//I'm being annoying
 }
+
